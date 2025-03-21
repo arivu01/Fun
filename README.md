@@ -1,4 +1,3 @@
-# Fun
-My first repository
-<br>
-My name is Aryan Thakur
+Codes repo
+
+Add your written code here for our understanding with appropriate name
